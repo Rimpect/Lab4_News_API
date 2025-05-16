@@ -3,7 +3,7 @@
 
 запуск приложения - go run main.go -apikey=d51160f04782454eba6568072099f6b1
 
-
+ 
 
 Starter files for the News application built with Go. Tutorial:
 https://freshman.tech/web-development-with-go/
